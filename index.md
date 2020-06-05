@@ -1,2 +1,2 @@
-# 我爱中国
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+# 你太好奇了吧，朋友
+
